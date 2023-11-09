@@ -1,0 +1,18 @@
+body * {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+header button {
+    background-color: #06441d;
+    display: inline-block;
+    padding: 16px 8px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffff;
+    border-radius: 10px;
+}
+
+.bg-color {background-color: #A1E887;}
+
+header h4 {color: #06441d;}
+
+header p {color: #2B3D41;
+}
